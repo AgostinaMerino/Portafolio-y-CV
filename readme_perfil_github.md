@@ -9,7 +9,7 @@
 
 - 🌱 ESTOY ESTUDIANDO HTML, CSS, JAVASCRIPT, REACTJS, SQL, POWERBI, TABLEAU
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN [github.com/AgostinaMerino](https://github.com/AgostinaMerino)
+- 👨‍💻 MIS PROYECTOS ESTÁN EN [github.com/AgostinaMerino](https://github.com/AgostinaMerino)
 
 - 📫 PUEDES CONTACTARME EN agostina.merino@mi.unc.edu.ar
 
