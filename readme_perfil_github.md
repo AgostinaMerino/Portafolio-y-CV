@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DECORATIVA-DEL-PERFIL.jpg?raw=true)
+![Imagen decorativa de tu perfil](https://github.com/AgostinaMerino/Portafolio-y-CV/blob/main/fondo-trabajo.png)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, soy Agostina Merino</h1>

@@ -1,5 +1,5 @@
 # ALQUILERES ANYLU
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/AgostinaMerino/Portafolio-y-CV/blob/main/imagen-proyecto.png)
 
 ## Ejemplo en vivo
 - [URL A GitHub pages del proyecto](https://agostinamerino.github.io/AlquileresANYLU/)
