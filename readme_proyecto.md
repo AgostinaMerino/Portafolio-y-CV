@@ -1,8 +1,8 @@
-# Título del proyecto
+# ALQUILERES ANYLU
 ![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
 
 ## Ejemplo en vivo
-- [URL de GitHub pages del proyecto](https://agostinamerino.github.io/AlquileresANYLU/)
+- [URL A GitHub pages del proyecto](https://agostinamerino.github.io/AlquileresANYLU/)
 
 ## Descripción 📑
 
@@ -21,4 +21,4 @@ A lo largo del desarrollo del sitio he aprendido lenguajes de marcado (HTML y CS
 **Agostina Merino**
 
 * [agostina.merino@mi.unc.edu.ar](agostina.merino@mi.unc.edu.ar)
-* [LinkedIn](www.linkedin.com/in/agostinamerino)
+* [LinkedIn](https://www.linkedin.com/in/agostinamerino/)
